@@ -41,3 +41,5 @@ docker ps
 ```
 docker rm ndoejs
 ```
+
+* Access the app `http://localhost:3000`
