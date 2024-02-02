@@ -42,4 +42,8 @@ docker ps
 docker rm ndoejs
 ```
 
-* Access the app `http://localhost:3000`
+#### To test the app 
+
+* Access the app `http://IP_Address:3000`
+
+If you want to make the application accessible on the network, you should replace `localhost` with the actual IP address or hostname of your machine where the Docker container is running.
